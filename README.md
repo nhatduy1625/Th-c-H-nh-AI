@@ -58,3 +58,6 @@ Test do thi 1:
 DFS tu dinh 1: 1 0 2 3 4 
 BFS tu dinh 1: 1 0 2 3 4
 </pre>
+## 4. Lược đồ:
+![Grid](https://github.com/user-attachments/assets/64db9d14-eceb-4045-bce8-facf55e94f58)
+
